@@ -1,7 +1,0 @@
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\bin\Debug\semaphori.exe.config
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\bin\Debug\semaphori.exe
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\bin\Debug\semaphori.pdb
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\obj\Debug\semaphori.csproj.AssemblyReference.cache
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\obj\Debug\semaphori.csproj.CoreCompileInputs.cache
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\obj\Debug\semaphori.exe
-D:\study\university3\paralelni\3\c#\semaphori\semaphori\obj\Debug\semaphori.pdb
